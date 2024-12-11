@@ -13,7 +13,7 @@
 - **Target group:** Under 25-year-old Finnish degree students who have not applied for housing from TOAS in the last six months
 
 ## Goal
-The goal was to evaluate the usability of toas.fi and its housing application form provided by Tampuuri. Both heuristic evaluation and user testing (including questionnaires and interviews were used).
+The goal was to evaluate the usability of toas.fi and its housing application form provided by Tampuuri. Both heuristic evaluation and user testing (including questionnaires and interviews) were used.
 
 TOAS offers affordable rental housing for students living in the Tampere area, aiming to make students' lives easier by addressing their diverse housing needs. The housing selection can be browsed on the website of TOAS, and to obtain an apartment, students must submit an electronic application. The usability test focused on evaluating the following functions of the service:
 - Searching, filtering, and browsing suitable apartment listings on the website
